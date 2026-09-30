@@ -1,6 +1,6 @@
 # FreeCAD model of a switch and USB Panel for the original Ducato Cup Holder
 This model is meant for a 3D printed panel for the original FIAT cup holder, which replaces the compartment below the ventilation and heater controls.
-The cup holder has a small cut-out with a small 45 x 65 mm² panel. This model allows to create a custom version with switches and USB out socket.
+The cup holder has a small cut-out with a small 45 x 65 mm² cover. This model allows to create a custom version with switches and USB out socket.
 
 ### Mechanical properties
 - Size: 65mm x 45mm
