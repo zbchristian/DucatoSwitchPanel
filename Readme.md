@@ -23,7 +23,7 @@ The cup holder has a small cut-out with a small 45 x 65 mm² cover. This CAD mod
 
 ![Ducato Cup Holder Panel with installed Components](images/Panel_w_Components.jpg)
 
-![Panel installed in Ducato Cupholder](Installed_Panel_Cupholder.jpg)
+![Panel installed in Ducato Cupholder](images/Installed_Panel_Cupholder.jpg)
 
 ![Ducato Cup Holder Panel Front](images/ducato_panel_front_500px.jpg)
 
