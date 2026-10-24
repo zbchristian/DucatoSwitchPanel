@@ -20,12 +20,15 @@ The cup holder has a small cut-out with a small 45 x 65 mm² cover. This CAD mod
 ### How to modify?
 - the dimensions of the cutouts are defined in the spreadsheet `Dimensions`
 - three of the locking lugs are copies of `Rastnase1`. So, only modify this version adjust thickness to the used material
+<p float="left">
+<img src="images/Panel_w_Components.jpg" alt="Ducato Cup Holder Panel with installed Components" style="width:30%">
+<img src="images/Installed_Panel_Cupholder.jpg" alt="Panel installed in Ducato Cupholder" style="width:30%;">
+</p>
 
-<img src="images/Panel_w_Components.jpg" alt="Ducato Cup Holder Panel with installed Components" style="width:auto; height:300px;">
-<img src="images/Installed_Panel_Cupholder.jpg" alt="Panel installed in Ducato Cupholder" style="width:auto; height:300px;">
-
-<img src="images/ducato_panel_front_500px.jpg" alt="Front of the Panel" style="width:auto; height:300px;">
-<img src="images/ducato_panel_back_500px.jpg" alt="Back of the Panel" style="width:auto; height:300px;">
+<p float="left">
+<img src="images/ducato_panel_front_500px.jpg" alt="Front of the Panel" style="width:30%;">
+<img src="images/ducato_panel_back_500px.jpg" alt="Back of the Panel" style="width:30%;">
+</p>
 
 ### License
 The CAD model and step file is published under [CERN-OHL-W Version 2](https://cern-ohl.web.cern.ch/)
